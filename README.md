@@ -10,4 +10,4 @@ My personal website will show who I am, what my expertise, and what we can colla
 - [Github](https://)
 
 # Preview
-![Preview](https://github.com/mrandyyp/mrandyyp.com/blob/main/preview-min.jpg)
+![Preview](https://github.com/mrandyyp/mrandyyp.com/blob/main/assets/images/preview-min.jpg)
