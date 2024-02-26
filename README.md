@@ -6,7 +6,8 @@ My personal website will show who I am, what my expertise, and what we can colla
 - Personal Website [mrandyyp.com](https://mrandyyp.com)
 - [Facebook](https://facebook.com/mrandyyputra)
 - [Telegram](https://t.me/mrandyyputra)
+- [Figma](https://)
 - [Github](https://)
 
 # Preview
-!  ![Tux, the Linux mascot](/assets/images/tux.png)
+![Preview](https://github.com/mrandyyp/mrandyyp.com/blob/main/preview-min.jpg)
