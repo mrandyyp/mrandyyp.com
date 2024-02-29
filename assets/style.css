@@ -1,0 +1,65 @@
+body {
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    line-height: 1.5;
+    background-color: #FCFCFC;
+}
+.main-container {
+    max-width: 800px;
+    margin: auto;
+}
+.header-flex{
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
+    border: 1px solid blue;
+}
+.nav-links li {
+    display: inline;
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.site-description {
+    margin-top: -25px;
+}
+.pagehero {
+    margin-top: 10px;
+    display: flex;
+    border: 1px solid darkgreen;
+}
+.about-me {
+margin-top: 20px; border: 1px solid red;
+max-width: 500px;
+
+}
+.about-me > .my-avatar {
+    justify-content: right;
+    align-items: center;
+}
+.text-hero {line-height: 2em;}
+.my-avatar img{
+    border-radius: 60%;
+    height: 250px;
+    align-items:;
+    margin-top: 10px;
+}
+.button-hero{
+    background-color: #1A4CFF; 
+    color: #fff;
+    width: 133px;
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+    padding: 7px 10px;
+    display: block;
+    margin-top: 95px;
+}
+.container-flex {
+    display: flex;
+    justify-content: center;
+}
+.container-flex > div {
+    max-width: 500px;
+    max-height: 500px;
+    justify-content: center;
+}
