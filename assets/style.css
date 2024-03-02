@@ -1,94 +1,100 @@
 body {
-    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    line-height: 1.5;
-    background-color: #FCFCFC;
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height: 1.5;
+  background-color: #fcfcfc;
 }
 .text-center {
-    text-align: center;
+  text-align: center;
 }
 .padding-top-10 {
-    padding-top: 10px;
+  padding-top: 10px;
 }
 .p10 {
-    padding:10px;
+  padding: 10px;
 }
 .main-container {
-    max-width: 800px;
-    margin: auto;
+  max-width: 800px;
+  margin: auto;
 }
-.header-flex{
-    display: flex;
-	align-items: center;
-	justify-content: space-between;
+.header-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .nav-links li {
-    display: inline;
-    margin-left: 15px;
-    font-size: 20px;
-    font-weight: 600;
+  display: inline;
+  margin-left: 15px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.main-title {
+  margin-bottom: 0px;
 }
 .site-description {
-    margin-top: -25px;
+  /* margin-top: -25px; */
+  font-size: 15px;
 }
 .pagehero {
-    margin-top: 10px;
-    display: flex;
+  margin-top: 10px;
+  display: flex;
 }
 .about-me {
-max-width: 500px;
-
+  max-width: 500px;
 }
 .my-avatar {
-    padding:10px;
+  padding: 10px;
 }
-.text-hero {line-height: 2em;}
-.my-avatar img{
-    border-radius: 60%;
-    height: 250px;
-    align-items:;
-    margin-top: 10px;
+.text-hero {
+  line-height: 2em;
 }
-.button-hero{
-    background-color: #1A4CFF; 
-    color: #fff;
-    width: 133px;
-    border-radius: 10px;
-    text-align: center;
-    border: none;
-    padding: 7px 10px;
-    display: block;
-    margin-top: 70px;
-    text-decoration: none;
+.my-avatar img {
+  border-radius: 60%;
+  height: 250px;
+  /* align-items:; */
+  margin-top: 10px;
+}
+.button-hero {
+  background-color: #1a4cff;
+  color: #fff;
+  width: 133px;
+  border-radius: 10px;
+  text-align: center;
+  border: none;
+  padding: 7px 10px;
+  display: block;
+  margin-top: 70px;
+  text-decoration: none;
 }
 .my-works-container {
-    margin-top: 10px;
-    background-color: #F9F9FF;
-    padding: 0px 15px 10px 15px;
+  margin-top: 10px;
+  background-color: #f9f9ff;
+  padding: 0px 15px 10px 15px;
 }
 .my-works-card {
-    display: flex;
-    border-radius: 10px;
-    background-color: #fff;
-    border: 1px solid #E5E7EB;
-    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -4px rgba(0,0,0,0.1);
-    margin-bottom: 20px;
-
+  display: flex;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
 }
-.my-works-card > div {
+/* .my-works-card > div {
 
-}
+} */
 .my-works-img {
-    margin:5px;
+  margin: 5px;
 }
 .contact-icon {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
 }
 .contact-icon > div {
-    margin: 5px;
+  margin: 5px;
 }
 .icon {
-    width: 48px;
-    height: 48px;
+  width: 48px;
+  height: 48px;
 }
